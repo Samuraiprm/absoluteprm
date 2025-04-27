@@ -8,7 +8,27 @@ document.addEventListener('DOMContentLoaded', function() {
             header.classList.remove('scrolled');
         }
     });
+// Обработчик для видео в портфолио
+document.querySelectorAll('.video-wrapper').forEach(item => {
+    item.addEventListener('click', function() {
+        const videoSrc = this.getAttribute('data-src');
+        let finalSrc = videoSrc;
+        
+        // Если это Vimeo-видео, добавляем параметры
+        if (videoSrc.includes('vimeo.com')) {
+            finalSrc = videoSrc + '?autoplay=1&background=0';
+        }
+        
+        document.getElementById('videoFrame').src = finalSrc;
+        const videoModal = new bootstrap.Modal(document.getElementById('videoModal'));
+        videoModal.show();
+    });
+});
 
+// Сбрасываем src при закрытии модального окна
+document.getElementById('videoModal').addEventListener('hidden.bs.modal', function () {
+    document.getElementById('videoFrame').src = '';
+});
     // Smooth scrolling for navigation links
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         anchor.addEventListener('click', function(e) {

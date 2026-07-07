@@ -1,0 +1,97 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "ABSOLUTE STUDIO",
+    "subtitle": "Professional video production in Perm",
+    "cta": "Order filming",
+    "scroll": "Scroll down"
+  },
+  "about": {
+    "label": "About us",
+    "title": "We create videos that work",
+    "description": "ABSOLUTE Studio is a team of professionals turning your ideas into quality video content. Over 5 years of experience, 200+ completed projects, and 100% satisfied clients.",
+    "stats": {
+      "experience": "5+",
+      "experienceLabel": "years of experience",
+      "projects": "200+",
+      "projectsLabel": "projects",
+      "satisfaction": "100%",
+      "satisfactionLabel": "satisfied clients"
+    }
+  },
+  "services": {
+    "label": "Services",
+    "title": "Full-cycle video production",
+    "video": {
+      "title": "Video Production",
+      "description": "Professional filming in any format — from short clips to full-length projects.",
+      "items": [
+        "Advertising and brand videos",
+        "Social media content",
+        "Interviews and expert videos",
+        "Brand videos and presentations",
+        "Backstage and lifestyle shooting"
+      ]
+    },
+    "post": {
+      "title": "Editing and post-production",
+      "description": "Complete video processing to a finished result.",
+      "items": [
+        "Editing and assembly",
+        "Color correction",
+        "Sound processing",
+        "Graphics and titles",
+        "Subtitles"
+      ]
+    }
+  },
+  "portfolio": {
+    "label": "Portfolio",
+    "title": "Our work",
+    "watchMore": "View more works",
+    "items": [
+      {
+        "title": "Advertising video",
+        "category": "Advertising"
+      },
+      {
+        "title": "Corporate video",
+        "category": "Corporate"
+      },
+      {
+        "title": "Social media content",
+        "category": "Social Media"
+      }
+    ]
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Order filming",
+    "description": "Contact us to discuss your project. We will respond within 24 hours.",
+    "form": {
+      "name": "Your name",
+      "phone": "Phone",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send"
+    },
+    "info": {
+      "address": "Perm, Kuibysheva St. 95B, GREEN Plaza, office 1003/1, 10th floor",
+      "email": "slobodinsm@gmail.com",
+      "vk": "vk.com/permvideo59"
+    },
+    "vkButton": "Message on VK"
+  },
+  "footer": {
+    "copyright": "© 2024 ABSOLUTE Studio. All rights reserved.",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  }
+}

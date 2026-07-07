@@ -1,0 +1,97 @@
+{
+  "nav": {
+    "home": "主页",
+    "about": "关于我们",
+    "services": "服务",
+    "portfolio": "作品集",
+    "contact": "联系方式"
+  },
+  "hero": {
+    "title": "ABSOLUTE STUDIO",
+    "subtitle": "彼尔姆专业视频制作",
+    "cta": "预约拍摄",
+    "scroll": "向下滚动"
+  },
+  "about": {
+    "label": "关于我们",
+    "title": "我们创作有效的视频",
+    "description": "ABSOLUTE Studio 是一支专业团队，将您的想法转化为高质量的视频内容。拥有5年以上的经验，完成200多个项目，100%的客户满意度。",
+    "stats": {
+      "experience": "5+",
+      "experienceLabel": "年经验",
+      "projects": "200+",
+      "projectsLabel": "个项目",
+      "satisfaction": "100%",
+      "satisfactionLabel": "客户满意度"
+    }
+  },
+  "services": {
+    "label": "服务",
+    "title": "全流程视频制作",
+    "video": {
+      "title": "视频拍摄",
+      "description": "任何格式的专业拍摄——从短片到长片项目。",
+      "items": [
+        "广告和品牌形象视频",
+        "社交媒体内容",
+        "采访和专家视频",
+        "品牌视频和演示",
+        "幕后和生活方式拍摄"
+      ]
+    },
+    "post": {
+      "title": "剪辑和后期制作",
+      "description": "完整的视频处理至成品。",
+      "items": [
+        "剪辑和拼接",
+        "色彩校正",
+        "音频处理",
+        "图形和字幕",
+        "字幕制作"
+      ]
+    }
+  },
+  "portfolio": {
+    "label": "作品集",
+    "title": "我们的作品",
+    "watchMore": "查看更多作品",
+    "items": [
+      {
+        "title": "广告视频",
+        "category": "广告"
+      },
+      {
+        "title": "企业视频",
+        "category": "企业"
+      },
+      {
+        "title": "社交媒体内容",
+        "category": "社交媒体"
+      }
+    ]
+  },
+  "contact": {
+    "label": "联系方式",
+    "title": "预约拍摄",
+    "description": "联系我们讨论您的项目。我们将在24小时内回复。",
+    "form": {
+      "name": "您的姓名",
+      "phone": "电话",
+      "email": "邮箱",
+      "message": "留言",
+      "submit": "发送"
+    },
+    "info": {
+      "address": "彼尔姆市，库伊贝舍瓦街95B，GREEN Plaza，办公室1003/1，10楼",
+      "email": "slobodinsm@gmail.com",
+      "vk": "vk.com/permvideo59"
+    },
+    "vkButton": "在VK上联系"
+  },
+  "footer": {
+    "copyright": "© 2024 ABSOLUTE Studio. 保留所有权利。",
+    "services": "服务",
+    "portfolio": "作品集",
+    "contact": "联系方式"
+  }
+}
